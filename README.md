@@ -1,3 +1,3 @@
 # NinjaRMM-Scripts
 
-Scripts I've created to manage NinjaRMM
+Scripts and Patches I've created to manage NinjaRMM
